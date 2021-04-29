@@ -5,6 +5,15 @@
   align-items: center;
 }
 
+.buttons {
+  display: flex;
+  flex-direction: column;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
 .title {
   margin: 10px;
   font-family: cursive;
